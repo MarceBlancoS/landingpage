@@ -1,0 +1,64 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+body{
+    font-size: 100px;
+    background-image: linear-gradient(to right top, #cb4190, #bc53a6, #a862b7, #9370c2, #7d7bc8, #6b8ad4, #5899dd, #47a6e1, #2cbced, #1ed2f3, #37e7f4, #5ffbf1);
+}
+
+.header{
+
+}
+
+.foto{
+
+}
+
+.menu{
+
+}
+.menu-item{
+
+}
+.conteiner{
+
+}
+
+.conteiner-principal{
+
+}
+.conteiner-imagen{
+
+}
+
+.title{
+
+}
+
+.title2{
+
+}
+
+.button{
+
+}
+
+.conteiner-principal-parrafo{
+
+}
+.conteiner-title{
+
+}
+
+.parrafo{
+
+}
+
+.footer{
+    
+}
